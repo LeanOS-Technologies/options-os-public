@@ -13,7 +13,9 @@
 
 Start from a trading engine definition. Move through specifications, architecture, implementation planning, bounded execution and verification inside one repository.
 
-[Website](https://www.leanos.tech/) · [Docs](https://www.leanos.tech/docs) · [Pricing](https://www.leanos.tech/pricing) · [Engines](https://www.leanos.tech/engines) · [What you receive](#what-you-receive) · [Build path](#build-path) · [Product boundary](#product-boundary)
+**$149 one-time** · no subscription · private GitHub repository invitation after payment · use your own Claude Code or Codex environment · no refunds (it's source code) · no alpha, no hosted runtime, no certification of profitability or live readiness · engine performance claims belong to their authors.
+
+[Website](https://www.leanos.tech/) · [Docs](https://www.leanos.tech/docs?utm_source=github&utm_medium=repo&utm_campaign=options-os.owned-engine-builder.github-public-repo&utm_content=readme.cat-a.none) · [Pricing](https://www.leanos.tech/pricing?utm_source=github&utm_medium=repo&utm_campaign=options-os.owned-engine-builder.github-public-repo&utm_content=readme.cat-a.none) · [Engines](https://www.leanos.tech/engines) · [What you receive](#what-you-receive) · [Build path](#build-path) · [Product boundary](#product-boundary)
 
 </div>
 
@@ -99,7 +101,7 @@ Deribit is the implemented reference adapter.
 
 It demonstrates how the reusable `adapter-core` contract handles instruments, market data, account state, orders, fills, positions, errors, rate limits, persistence and reconciliation. Engine code consumes canonical facts and commands and never depends on Deribit payloads. Other venues remain implementation targets until they meet the same contract and verification standard.
 
-## One framework. Any crypto-options strategy.
+## One framework. You define the strategy.
 
 Options OS does not limit the engine to a predefined strategy. Possible directions include:
 
@@ -114,7 +116,7 @@ Options OS does not limit the engine to a predefined strategy. Possible directio
 
 These are examples, not included strategies and not limits on the framework.
 
-Engines built with Options OS can be published by their authors in the public [engine directory](https://www.leanos.tech/engines). Metrics and claims on engine pages are author supplied and not verified by LeanOS.
+Engines built with Options OS can be published by their authors in the public [engine directory](https://www.leanos.tech/engines). Engine claims are author supplied and not verified by LeanOS. LeanOS does not endorse or certify engine performance or readiness for live trading.
 
 ## Product boundary
 
@@ -133,9 +135,9 @@ Options OS is not a trading bot, profitable strategy, signal service, hosted exe
 
 Options OS is available for **$149 as a one-time purchase**. There is no subscription. Repository access is granted on purchase and refunds are not offered.
 
-Python and software-engineering knowledge help but are not required: Claude Code or Codex performs the repository work. You must be able to define the strategy and evaluate its trading and operating decisions.
+Claude Code or Codex performs the repository work. You stay the owner of the decisions: you define the strategy, make and evaluate its trading and operating decisions, and review and accept the specifications and the generated work in your own Claude Code or Codex environment. The trading engine definition form walks through the decisions it asks you to make. Python and software-engineering experience is useful for that review.
 
-[View pricing and access](https://www.leanos.tech/pricing)
+[View pricing and access](https://www.leanos.tech/pricing?utm_source=github&utm_medium=repo&utm_campaign=options-os.owned-engine-builder.github-public-repo&utm_content=readme.cat-a.none)
 
 Custom implementation is available when you want LeanOS to build the trading engine and agentic layer your strategy and operations require. Scope and price are agreed before work begins. [Book a call](https://cal.com/bellabe/options-os).
 
