@@ -1,7 +1,3 @@
-<p align="center">
-  <img src=".github/readme/cover.svg" width="960" alt="OptionsOS — engineer the engine.">
-</p>
-
 <h1 align="center">Your rules. An engine built with AI.</h1>
 
 <p align="center">
@@ -63,6 +59,6 @@ Bring Claude Code or Codex, Linux or WSL2, Python 3.12, Git and Make. You need e
 This public repository is the product overview. The framework, model, skills and tools are delivered in the private repository. See [NOTICE.md](NOTICE.md).
 
 > [!TIP]
-> **Delete this README after cloning.** It is the GitHub marketing page, not part of the engineering model. You may also delete `.github/readme/`, which contains only its artwork. Keep [NOTICE.md](NOTICE.md) and [SECURITY.md](SECURITY.md).
+> **Delete this README after cloning.** It is the GitHub marketing page, not part of the engineering model. Keep [NOTICE.md](NOTICE.md) and [SECURITY.md](SECURITY.md).
 
 Built by [LeanOS](https://www.leanos.tech/).
